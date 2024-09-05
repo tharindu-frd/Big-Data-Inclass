@@ -6,4 +6,4 @@
 
 ## Then i have build a dashboard that fetch the data from the mongodb make live updates
 
-!(dashboard.jpg)
+![dashboard image](dashboard.jpg)
